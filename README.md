@@ -1,2 +1,2 @@
 # CRCPolyReverse
-Getting the CRC32 poly from data
+Brute forcing the CRC32 poly from data
